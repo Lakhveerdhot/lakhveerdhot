@@ -2,65 +2,37 @@
 
 ### Cybersecurity Student | Security Researcher | Ethical Hacking Enthusiast
 
-I'm a B.Tech Computer Science and Engineering student focused on
-cybersecurity, web application security, network security, digital
-forensics, and security research.
+I'm a B.Tech Computer Science & Engineering student focused on
+cybersecurity, web security, network security, digital forensics,
+and security research.
 
-I enjoy building practical security tools, working in controlled
-security labs, analyzing vulnerabilities, and learning how real-world
-security systems are designed and defended.
-
----
-
-## 🛡️ About Me
-
-- 🎓 B.Tech Computer Science & Engineering Student
-- 🔐 Focused on Cybersecurity & Information Security
-- 🌐 Interested in Web Application & API Security
-- 🕵️ Exploring Digital Forensics & Incident Response
-- 🌐 Building Network Security & Asset Discovery tools
-- 🔎 Interested in Reconnaissance, OSINT & Vulnerability Assessment
-- 🐧 Comfortable working with Linux security environments
-- 🚀 Building practical cybersecurity projects
+I build practical security tools, work in controlled security labs,
+and explore real-world security problems through hands-on projects.
 
 ---
 
-## 🔐 Security Domains
+## 🛡️ Cybersecurity Focus
 
-- Web Application Security
-- API Security
-- Network Security
-- Vulnerability Assessment
-- Reconnaissance & OSINT
-- Phishing & Email Security
-- Digital Forensics & Incident Response
-- Security Monitoring
-- OWASP Top 10
-- Linux Security
+- 🔐 Web & API Security
+- 🌐 Network Security
+- 🔎 Reconnaissance & OSINT
+- 🕵️ Digital Forensics & Incident Response
+- 🎣 Phishing & Email Security
+- 🚨 Security Monitoring
+- 🧪 Vulnerability Assessment
+- 🐧 Linux Security
 
 ---
 
 ## ⚒️ Tech Stack
 
-### Programming
+**Languages:** Python • JavaScript • TypeScript
 
-Python • JavaScript • TypeScript
+**Security:** Nmap • Burp Suite • Wireshark • OWASP
 
-### Security Tools
+**Development:** React • Next.js • Node.js • Express
 
-Nmap • Burp Suite • Wireshark • OWASP Tools • Linux Security Tools
-
-### Development
-
-React • Next.js • Node.js • Express
-
-### Databases
-
-MySQL • SQLite
-
-### DevOps & Tools
-
-Git • GitHub • Docker • Linux
+**Tools:** Git • GitHub • Docker • Linux
 
 ---
 
@@ -68,105 +40,41 @@ Git • GitHub • Docker • Linux
 
 ### 🎣 Phishing Email Simulator
 
-Enterprise-style phishing email analysis platform designed to analyze
-suspicious emails, URLs, authentication signals, brand impersonation,
-and overall phishing risk.
-
-**Key Features**
-
-- Email analysis
-- URL extraction
-- VirusTotal integration
-- Brand impersonation detection
-- SPF / DKIM / DMARC analysis
-- Risk scoring
-- Threat classification
-- Report generation
-
----
+Phishing email analysis platform for URL inspection, email
+authentication analysis, brand impersonation detection,
+VirusTotal integration and risk scoring.
 
 ### 🌐 Network Asset Discovery
 
-Security-focused network asset discovery and monitoring platform for
-identifying, classifying, and monitoring authorized network assets.
-
-**Key Features**
-
-- Network host discovery
-- Port scanning
-- Service detection
-- Banner grabbing
-- OS fingerprinting
-- Asset classification
-- Security monitoring
-
----
+Security-focused platform for discovering, identifying and
+monitoring authorized network assets with service detection,
+banner grabbing and OS fingerprinting.
 
 ### 🕵️ DFIR File Type Identifier
 
-Digital forensics utility designed to identify the actual type of files
-using magic numbers and detect suspicious file extensions.
-
-**Key Features**
-
-- Magic number analysis
-- File type identification
-- Extension verification
-- SHA-256 hashing
-- Suspicious file detection
-
----
+Digital forensics utility that identifies actual file types
+using magic numbers, validates extensions and calculates
+SHA-256 hashes.
 
 ### 🧪 OWASP Top 10 Lab
 
-Controlled vulnerable web application environment created for learning
-and practicing web application security concepts based on the OWASP Top 10.
+Controlled vulnerable web application environment for
+learning and practicing OWASP Top 10 security concepts.
 
 ---
 
-## 🔭 Current Focus
+## 🎯 Currently Learning
 
-I'm currently expanding my cybersecurity knowledge in:
-
-- Advanced Web Application Security
-- API Security
-- Active Directory Security
-- Cloud Security
-- SIEM & Security Monitoring
-- Threat Hunting
-- Digital Forensics & Incident Response
-- Professional Vulnerability Reporting
+Advanced Web Security • API Security • Active Directory •
+Cloud Security • SIEM • Threat Hunting • DFIR
 
 ---
 
-## 🧠 Learning Philosophy
+## 🤝 Connect
 
-> Learn → Build → Test → Document → Improve
-
-I believe cybersecurity is best learned through practical projects,
-controlled labs, and continuous experimentation.
-
----
-
-## 📂 What You'll Find Here
-
-This GitHub profile contains:
-
-- 🔐 Cybersecurity projects
-- 🧪 Security labs
-- 🌐 Web security research
-- 🕵️ DFIR utilities
-- 🌐 Network security tools
-- 📚 Learning projects
-- 💻 Development work
-
----
-
-## 🤝 Connect With Me
-
-🌐 Portfolio  
-💼 LinkedIn  
-🐙 GitHub
+[🌐 Portfolio](https://my-portfolio-indol-omega-12.vercel.app/) •
+[💼 LinkedIn](https://linkedin.com/in/lakhveer-cyber) •
+[🐙 GitHub](https://github.com/Lakhveerdhot)
 
 ---
 
