@@ -51,33 +51,6 @@ Linux • Kali Linux • Windows
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎣 Phishing Email Simulator
-
-Phishing email analysis platform for URL inspection, email
-authentication analysis, brand impersonation detection,
-VirusTotal integration and risk scoring.
-
-### 🌐 Network Asset Discovery
-
-Security-focused platform for discovering, identifying and
-monitoring authorized network assets with service detection,
-banner grabbing and OS fingerprinting.
-
-### 🕵️ DFIR File Type Identifier
-
-Digital forensics utility that identifies actual file types
-using magic numbers, validates extensions and calculates
-SHA-256 hashes.
-
-### 🧪 OWASP Top 10 Lab
-
-Controlled vulnerable web application environment for
-learning and practicing OWASP Top 10 security concepts.
-
----
-
 ## 🎯 Currently Learning
 
 Advanced Web Security • API Security • Active Directory •
