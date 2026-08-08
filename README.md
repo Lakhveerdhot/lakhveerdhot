@@ -26,13 +26,28 @@ and explore real-world security problems through hands-on projects.
 
 ## ⚒️ Tech Stack
 
-**Languages:** Python • JavaScript • TypeScript
+### 💻 Programming & Scripting Tools
 
-**Security:** Nmap • Burp Suite • Wireshark • OWASP
+Python • JavaScript • TypeScript • Bash • Docker • VS Code • Git • GitHub
 
-**Development:** React • Next.js • Node.js • Express
+### 🔐 Cybersecurity
 
-**Tools:** Git • GitHub • Docker • Linux
+Burp Suite • Nmap • Wireshark • OWASP Top 10 • Metasploit • Gobuster • Aircrack-ng • OpenVPN • Tor
+
+### 🕵️ Security & Analysis
+
+Web Application Security • API Security • Network Security •
+Vulnerability Assessment • Reconnaissance • OSINT • DFIR •
+Phishing Analysis • Security Monitoring
+
+### 🗄️ Databases
+
+MySQL • SQLite • Sequelize
+
+
+### 🐧 Operating Systems
+
+Linux • Kali Linux • Windows
 
 ---
 
