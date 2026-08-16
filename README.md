@@ -1,6 +1,6 @@
 # Hi, I'm Lakhveer Singh 👋
 
-### Cybersecurity Student | Security Researcher | Ethical Hacking Enthusiast
+### Cybersecurity Engineer | Offensive Security | Web/AppSec | Security Automation
 
 I'm a B.Tech Computer Science & Engineering student focused on
 cybersecurity, web security, network security, digital forensics,
